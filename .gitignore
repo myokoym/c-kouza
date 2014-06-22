@@ -1,0 +1,6 @@
+*.o
+*.so
+*.exe
+*.zip
+main
+1/ext/Makefile
